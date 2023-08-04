@@ -24,7 +24,7 @@ Each problem's solution is organized into its own directory, named according to 
 
 To use the solutions in this repository, follow these steps:
 
-1. Clone the repository to your local machine using `git clone https://github.com/luisf-rodriguez/project-euler-solutions.git`.
+1. Clone the repository to your local machine using `git clone https://github.com/pmentor/project-euler.git`.
 2. Navigate to the specific problem directory you want to explore.
 3. Open the `problemX.py`, `problemX.ipynb` or `problemX.cpp` file to see the solution code.
 4. If the problem requires input data, ensure the `input.txt` file is available in the same directory.
