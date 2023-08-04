@@ -1,6 +1,7 @@
 # Project Euler Solutions
 
-![Project Euler Logo](https://projecteuler.net/themes/20210428/logo_default.png)
+![Project Euler Logo](https://github.com/pmentor/Project-Euler-Solutions/assets/101071780/7f363675-0548-4dd1-86b2-d2dc765398dc)
+
 
 This repository contains my solutions to various problems from [Project Euler](https://projecteuler.net/). Project Euler is a series of challenging mathematical/computer programming problems that require creative solutions and programming skills. Each problem comes with a specific set of rules and constraints, and the objective is to find the most efficient solution.
 
